@@ -8,7 +8,9 @@ This project focuses on designing and implementing a lightweight, efficient **pr
 ## 🚀 Project Goals
 
 - Design & Implementation: Develop a neural network processing unit capable of performing multiply-accumulate (MAC), ReLU activation, and quantization operations.
- ![{0338E447-C208-4419-840B-023EC0028C7A}](https://github.com/user-attachments/assets/19744409-b45c-43f6-990d-11c4d3d5eaf2)
+  
+  ![{0338E447-C208-4419-840B-023EC0028C7A}](https://github.com/user-attachments/assets/19744409-b45c-43f6-990d-11c4d3d5eaf2)
+  
 
 - Hardware Acceleration: Use Verilog to create an optimized architecture that executes operations in a pipelined manner.
   ![{B829FE59-7D0F-4503-9982-FA8B1EDEBF3F}](https://github.com/user-attachments/assets/95df4a19-1ac7-47bd-be44-178f537a61e4)
@@ -54,5 +56,7 @@ This project focuses on designing and implementing a lightweight, efficient **pr
 
 The design was verified using custom testbenches and manual inputs.  
 The simulation results confirm the accuracy of the system with correctly generated waveforms.
+![{5BF38F42-E5CC-4895-9213-7F20ECDBE04E}](https://github.com/user-attachments/assets/386f0bf5-ece4-4242-b4d7-727ae03812fd)
+
 
 
