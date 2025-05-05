@@ -47,7 +47,7 @@ A high-performance, lightweight Verilog implementation of a Neural Network Proce
 ## Project Structure 📂
 
 ```
-NN-PU-Verilog/
+AI-based-Neural-Network-Processing-Unit/
 ├── src/
 │   ├── PE.v           # Top-level Processing Element module
 │   ├── MAC.v          # Multiply-Accumulate Unit
@@ -90,13 +90,7 @@ NN-PU-Verilog/
 Simulation confirms accurate MAC, ReLU, and quantization at 100 MHz with full throughput:  
 ![{5BF38F42-E5CC-4895-9213-7F20ECDBE04E}](https://github.com/user-attachments/assets/386f0bf5-ece4-4242-b4d7-727ae03812fd)
 
-<!-- ---
 
-## Contributing 🤝
-
-Contributions, issues, and feature requests are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
---- -->
 
 <!-- ## License 📄
 
